@@ -1,0 +1,3 @@
+# exe·검수표는 GitHub Releases 에 첨부 (깃 저장소에는 README 만)
+*.exe
+*.xlsx
